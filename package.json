@@ -39,6 +39,7 @@
     "url": "https://github.com/Doja-oual/BackendGraphQLPortfolio/issues"
   },
   "homepage": "https://github.com/Doja-oual/BackendGraphQLPortfolio#readme",
+
   "dependencies": {
     "@apollo/server": "^4.11.0",
     "bcryptjs": "^2.4.3",
@@ -46,6 +47,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "graphql": "^16.9.0",
+    "graphql-tag": "^2.12.6",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.0"
   },
